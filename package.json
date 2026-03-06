@@ -1,0 +1,16 @@
+{
+  "name": "e3-m6-ejercicio",
+  "version": "1.0.0",
+  "description": "Servidor de Contenidos Estáticos y Dinámicos Avanzado con Handlebars",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": ["express", "handlebars", "hbs"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "hbs": "^4.2.0"
+  }
+}
